@@ -37,25 +37,3 @@ The following requirements must be met in order to complete the assignment succe
 4. Override the background color or border color with the provided color. Review the provided placeholder code to find the approach rules to override. The placeholder code uses the default color `red`. 
 5. Use the colors and shapes lists to create a class for each shape and color combination. 
 6. Each class should use the shapes mixin to generate the code for the appropriate shape and color. 
-
-## Example
-The screenshot below shows what the complete version should look like.
-
-![Completed version of Sassy Shapes](images/sassy-shapes.png)
-
-## Rubric
-
-| Task | Points |
-| ---  | :---:  | 
-| Successfully creates the HTML using JavaScript | 2 |
-| Successfully creates the shapes mixin | 5 |
-| Successfully generates the shape / color classes | 3 |
-| **Total** | **10** | 
-
-
-## Submission
-When the assignment is completed, follow the steps below to submit for grading:
-
-1. Create a commit with the message "Completes the Sassy Shapes assignment"
-2. Push all commits to GitHub.
-3. Submit the URL to your GitHub repository to the **Sassy Shapes** assignment on BrightSpace.  
